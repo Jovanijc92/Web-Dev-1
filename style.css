@@ -4,6 +4,12 @@
     box-sizing: border-box;   
 }
 
+.header {
+    background-color: hsl(241, 44%, 39%);
+    text-align: center;
+    padding: 20px;
+}
+
 body{
     background-color: #338cf4;
 }
